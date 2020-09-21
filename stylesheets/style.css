@@ -2108,9 +2108,9 @@ a.download:hover {
 -------------------------------------------------------------------*/
 .site-footer {
     background-color: #191e28;
-    background-image: url("../images/bg-ft.png");
+    background-image: url("../images/contact.jpg");
     background-position: center center;
-    background-repeat: repeat-x;
+    background-repeat: no-repeat;
     background-attachment: scroll;
     color: #ccc;
     font-size: 14px;
